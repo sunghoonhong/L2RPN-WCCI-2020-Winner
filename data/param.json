@@ -1,0 +1,14 @@
+{
+    "head_number": 8,
+    "n_history": 12,
+    "state_dim": 128,
+    "dropout": 0.0,
+    "sim_trial": 15,
+    "threshold": 0.35,
+    "max_low_len": 19,
+    "danger": 0.9,
+    "mask": 3,
+    "mask_hi": 19,
+    "use_order": true,
+    "device": "cpu"
+}
